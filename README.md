@@ -1,5 +1,18 @@
 # Cafe-Menu
 This project is a simple HTML and CSS implementation of a cafe menu website named "Camper Cafe."
+
+## Features
+- Coffee and Dessert sections
+- Responsive design
+
+## How to Use
+1. Clone the repository
+2. Open `index.html` in a web browser
+
+## Credits
+- Images: FreeCodeCamp
+
+
 The webpage includes sections for coffee and desserts, with corresponding images and prices for each item. The design features a warm color scheme, custom fonts, and a background image of coffee beans. 
 The layout is responsive, and the code is organized with a focus on readability and maintainability. The project also includes a footer with a link to the cafe's website and address information.
  The project is open-source and free to use, following a "No Copyright" policy, and is attributed to freeCodeCamp.org.
