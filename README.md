@@ -1,4 +1,4 @@
-# Cafe-Menu
+# Camper Cafe
 This project is a simple HTML and CSS implementation of a cafe menu website named "Camper Cafe."
 
 ## Features
