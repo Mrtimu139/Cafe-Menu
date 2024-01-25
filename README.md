@@ -12,7 +12,7 @@ This project is a simple HTML and CSS implementation of a cafe menu website name
 ## Credits
 - Images: FreeCodeCamp
 
-
+## About
 The webpage includes sections for coffee and desserts, with corresponding images and prices for each item. The design features a warm color scheme, custom fonts, and a background image of coffee beans. 
 The layout is responsive, and the code is organized with a focus on readability and maintainability. The project also includes a footer with a link to the cafe's website and address information.
  The project is open-source and free to use, following a "No Copyright" policy, and is attributed to freeCodeCamp.org.
